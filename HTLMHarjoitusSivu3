@@ -10,7 +10,7 @@
     <h1>Tässä välissä tehdään esim. Paytrailin kautta maksutavan valinta ja suoritetaan maksu.</h1>
     
     <form>
-        <button onclick="window.location.href='"HTML harjoitus sivu 4.html" ">Jatka</button>
+        <button onclick="window.location.href='"HTMLHarjoitusSivu4.html" ">Jatka</button>
     </form>
 </body>
 
