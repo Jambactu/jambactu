@@ -12,8 +12,7 @@ body, html {
 }
 
 .bg {
- 
-  background-image: url("laatikotisokuva.jpg");
+ background-image: url("laatikotisokuva2.jpg");
 
   
   height: 50%; 
