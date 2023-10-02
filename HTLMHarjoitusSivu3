@@ -6,11 +6,11 @@
 </head>
 <body>
     <div class="content"
-    <p>Tämä on esittelysivusto uudelle tori-apuri-palvelulle. Siirry seuraavalle sivulle <a href="https://jambactu.github.io/HTMLHarjoitusSivu4">tästä.</a></p>
+    <p>Tämä on esittelysivusto uudelle tori-apuri-palvelulle. Siirry seuraavalle sivulle <a href="./HTMLHarjoitusSivu4">tästä.</a></p>
     <h1>Tässä välissä tehdään esim. Paytrailin kautta maksutavan valinta ja suoritetaan maksu.</h1>
     
     <form>
-        <button onclick="window.location.href='https://jambactu.github.io/HTMLHarjoitusSivu4.html'>Jatka</button>
+        <button onclick="window.location.href="./HTMLHarjoitusSivu4">Jatka</button>
     </form>
 </body>
 
