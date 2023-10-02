@@ -32,7 +32,7 @@ body, html {
 </div>
 
 <div class="content"
-<p>Tämä on esittelysivusto uudelle tori-apuri-palvelulle. Siirry seuraavalle sivulle <a href="https://jambactu.github.io/HTLMHarjoitusSivu3">tästä.</a></p></div>
+<p>Tämä on esittelysivusto uudelle tori-apuri-palvelulle. Siirry seuraavalle sivulle [tästä](https://jambactu.github.io/HTLMHarjoitusSivu3)</p></div>
 <div class="header h2">
 
   <h2> Syötä vastaanottajan tiedot</h2></div>
@@ -60,15 +60,15 @@ body, html {
       cursor: pointer;
     }
     </style>
-    <body>
-      <form>
+   
+ 
         <a href="index.html">Edellinen</a>  <button onclick="window.location.href='https://jambactu.github.io/HTMLHarjoitusSivu3.html'">Jatka</button>
-  </form>
+  
     
     </div>
   
     
-    </body>
+  </body>
     </html>
 
     
