@@ -10,7 +10,6 @@ body, html {
   height: 100%;
   margin: 0;
 }
-
 .bg {
  background-image: url("laatikotisokuva2.jpg"); 
   
@@ -33,7 +32,7 @@ body, html {
 </div>
 
 <div class="content"
-<p>Tämä on esittelysivusto uudelle tori-apuri-palvelulle. Siirry seuraavalle sivulle <a href="HTLMHarjoitusSivu3">tästä.</a></p></div>
+<p>Tämä on esittelysivusto uudelle tori-apuri-palvelulle. Siirry seuraavalle sivulle <a href="https://jambactu.github.io/HTLMHarjoitusSivu3">tästä.</a></p></div>
 <div class="header h2">
 
   <h2> Syötä vastaanottajan tiedot</h2></div>
@@ -63,7 +62,7 @@ body, html {
     </style>
     <body>
       <form>
-        <a href="index.html">Edellinen</a>  <button onclick="window.location.href='"HTMLHarjoitusSivu3.html" ">Jatka</button>
+        <a href="index.html">Edellinen</a>  <button onclick="window.location.href='https://jambactu.github.io/HTMLHarjoitusSivu3.html'">Jatka</button>
   </form>
     
     </div>
