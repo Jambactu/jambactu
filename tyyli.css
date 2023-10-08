@@ -7,7 +7,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: beige;
+    background-color: #f1f1f1;
   }
   li a {
     display: block;
@@ -16,7 +16,7 @@ ul {
     text-decoration: none;
   }
   li a:hover {
-    background-color:beige;
+    background-color:#000;
     color: white;
   }
 
