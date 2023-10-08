@@ -2,6 +2,15 @@ html, body{
     font-family: 'Open Sans',sans-serif;
     font-size: 14px;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li a {
+    display: block;
+    width: 60px;
+  }
 
 div {
     border: 1px;
