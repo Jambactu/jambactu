@@ -4,7 +4,7 @@ html, body{
 }
 
 div {
-    border: 20px;
+    border: 1px;
     border-color: beige;
     border-style: solid;
     
@@ -55,7 +55,7 @@ ul {
   
   /* Change the link color on hover */
   li a:hover {
-    background-color: beige;
+    background-color: RGB(252, 78, 84);
     color: black;
   }
   .active {
