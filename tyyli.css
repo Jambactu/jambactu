@@ -65,6 +65,12 @@ ul {
   li:last-child {
     border-bottom: none;
   }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
 .button {
     background-color:RGB(252, 78, 84); /* punainen */
     border: none;
